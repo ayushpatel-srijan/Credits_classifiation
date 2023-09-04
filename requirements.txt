@@ -1,0 +1,14 @@
+ffmpeg==1.4
+tensorflow
+keras
+natsort==8.4.0
+numpy==1.23.0
+opencv_contrib_python==4.7.0.72
+pandas==1.4.4
+Pillow==10.0.0
+pytesseract
+setuptools==65.6.3
+streamlit==1.13.0
+structlog==23.1.0
+tqdm==4.65.0
+altair==4.0
